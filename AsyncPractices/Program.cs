@@ -10,8 +10,6 @@ namespace AsyncPractices
     {
         static void Main(string[] args)
         {
-            Console.Write("Hello World");
-            Console.Read();
         }
     }
 }
