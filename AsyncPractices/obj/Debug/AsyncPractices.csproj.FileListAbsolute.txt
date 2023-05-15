@@ -1,0 +1,7 @@
+D:\Bruno\AsyncPractices\AsyncPractices\bin\Debug\AsyncPractices.exe.config
+D:\Bruno\AsyncPractices\AsyncPractices\bin\Debug\AsyncPractices.exe
+D:\Bruno\AsyncPractices\AsyncPractices\bin\Debug\AsyncPractices.pdb
+D:\Bruno\AsyncPractices\AsyncPractices\obj\Debug\AsyncPractices.csproj.AssemblyReference.cache
+D:\Bruno\AsyncPractices\AsyncPractices\obj\Debug\AsyncPractices.csproj.CoreCompileInputs.cache
+D:\Bruno\AsyncPractices\AsyncPractices\obj\Debug\AsyncPractices.exe
+D:\Bruno\AsyncPractices\AsyncPractices\obj\Debug\AsyncPractices.pdb
