@@ -12,6 +12,7 @@ namespace AsyncPractices
         {
             //AutoResetEventTest();
             //TaskTesting();
+            //ReverseSentenceTasking();
             Console.Read();
         }
 
@@ -21,10 +22,17 @@ namespace AsyncPractices
             var synchro = new SynchronizationAutoResetEvent();
             synchro.Start();
         }
-        static void TaskTesting() 
+        static void BasicTaskTesting() 
         {
             var tasking = new TasksHandling();
-            tasking.StartGenericTask();
+            tasking.StartGenericBasicTask();
+        }
+
+        static void ReverseSentenceTasking() 
+        {
+            var tasking = new TasksHandling();
+
+            tasking.ParentAndChildTasks();
         }
     }
 }
