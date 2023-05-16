@@ -1,15 +1,23 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace AsyncPractices
 {
-    class Program
+    partial class Program
     {
+        
         static void Main(string[] args)
         {
+            AutoResetEventTest();
+        }
+
+
+        static void AutoResetEventTest() 
+        {
+            var synchro = new SynchronizationAutoResetEvent();
+            synchro.Start();
         }
     }
 }
