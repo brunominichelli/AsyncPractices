@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -7,10 +8,11 @@ namespace AsyncPractices
 {
     partial class Program
     {
-        
         static void Main(string[] args)
         {
-            AutoResetEventTest();
+            //AutoResetEventTest();
+            //TaskTesting();
+            Console.Read();
         }
 
 
@@ -18,6 +20,11 @@ namespace AsyncPractices
         {
             var synchro = new SynchronizationAutoResetEvent();
             synchro.Start();
+        }
+        static void TaskTesting() 
+        {
+            var tasking = new TasksHandling();
+            tasking.StartGenericTask();
         }
     }
 }
