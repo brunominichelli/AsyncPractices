@@ -1,0 +1,7 @@
+D:\Bruno\AsyncPractices\PigLatinSentences\obj\Debug\PigLatinSentences.csproj.AssemblyReference.cache
+D:\Bruno\AsyncPractices\PigLatinSentences\obj\Debug\PigLatinSentences.csproj.CoreCompileInputs.cache
+D:\Bruno\AsyncPractices\PigLatinSentences\bin\Debug\PigLatinSentences.exe.config
+D:\Bruno\AsyncPractices\PigLatinSentences\bin\Debug\PigLatinSentences.exe
+D:\Bruno\AsyncPractices\PigLatinSentences\bin\Debug\PigLatinSentences.pdb
+D:\Bruno\AsyncPractices\PigLatinSentences\obj\Debug\PigLatinSentences.exe
+D:\Bruno\AsyncPractices\PigLatinSentences\obj\Debug\PigLatinSentences.pdb

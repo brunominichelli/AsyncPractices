@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{3449972F-90F8-4CCA-AF69-5B5AC564E2F8}</ProjectGuid>
+    <ProjectGuid>{A1BD6C5E-BA2C-4DCB-B2D2-05224AD682EE}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>AsyncPractices</RootNamespace>
-    <AssemblyName>AsyncPractices</AssemblyName>
+    <RootNamespace>PigLatinSentences</RootNamespace>
+    <AssemblyName>PigLatinSentences</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,11 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Continuations.cs" />
+    <Compile Include="PigLatinManager.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SynchronizationAutoResetEvent.cs" />
-    <Compile Include="TasksHandling.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{3449972F-90F8-4CCA-AF69-5B5AC564E2F8}</ProjectGuid>
+    <ProjectGuid>{B6F5BD9F-696D-43D3-A800-FDBB2D6670CD}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>AsyncPractices</RootNamespace>
-    <AssemblyName>AsyncPractices</AssemblyName>
+    <RootNamespace>New_Word_Reverser</RootNamespace>
+    <AssemblyName>New Word Reverser</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,11 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Continuations.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SynchronizationAutoResetEvent.cs" />
-    <Compile Include="TasksHandling.cs" />
+    <Compile Include="WordReverser.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
