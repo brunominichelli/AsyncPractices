@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.33529.622
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncPractices", "AsyncPractices\AsyncPractices.csproj", "{3449972F-90F8-4CCA-AF69-5B5AC564E2F8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "New Word Reverser", "New Word Reverser\New Word Reverser.csproj", "{B6F5BD9F-696D-43D3-A800-FDBB2D6670CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PigLatinSentences", "PigLatinSentences\PigLatinSentences.csproj", "{A1BD6C5E-BA2C-4DCB-B2D2-05224AD682EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{3449972F-90F8-4CCA-AF69-5B5AC564E2F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3449972F-90F8-4CCA-AF69-5B5AC564E2F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3449972F-90F8-4CCA-AF69-5B5AC564E2F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6F5BD9F-696D-43D3-A800-FDBB2D6670CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6F5BD9F-696D-43D3-A800-FDBB2D6670CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6F5BD9F-696D-43D3-A800-FDBB2D6670CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6F5BD9F-696D-43D3-A800-FDBB2D6670CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1BD6C5E-BA2C-4DCB-B2D2-05224AD682EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1BD6C5E-BA2C-4DCB-B2D2-05224AD682EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1BD6C5E-BA2C-4DCB-B2D2-05224AD682EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1BD6C5E-BA2C-4DCB-B2D2-05224AD682EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

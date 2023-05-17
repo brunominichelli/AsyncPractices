@@ -1,0 +1,6 @@
+D:\Bruno\AsyncPractices\New Word Reverser\bin\Debug\New Word Reverser.exe.config
+D:\Bruno\AsyncPractices\New Word Reverser\bin\Debug\New Word Reverser.exe
+D:\Bruno\AsyncPractices\New Word Reverser\bin\Debug\New Word Reverser.pdb
+D:\Bruno\AsyncPractices\New Word Reverser\obj\Debug\New Word Reverser.csproj.CoreCompileInputs.cache
+D:\Bruno\AsyncPractices\New Word Reverser\obj\Debug\New Word Reverser.exe
+D:\Bruno\AsyncPractices\New Word Reverser\obj\Debug\New Word Reverser.pdb
