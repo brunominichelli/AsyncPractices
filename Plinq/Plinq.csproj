@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{3449972F-90F8-4CCA-AF69-5B5AC564E2F8}</ProjectGuid>
+    <ProjectGuid>{0C982409-1EA2-443C-AA22-CF6DD532699F}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>AsyncPractices</RootNamespace>
-    <AssemblyName>AsyncPractices</AssemblyName>
+    <RootNamespace>Plinq</RootNamespace>
+    <AssemblyName>Plinq</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,28 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Continuations.cs" />
+    <Compile Include="PlinqHandling.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SynchronizationAutoResetEvent.cs" />
-    <Compile Include="TasksHandling.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\New Word Reverser\New Word Reverser.csproj">
-      <Project>{b6f5bd9f-696d-43d3-a800-fdbb2d6670cd}</Project>
-      <Name>New Word Reverser</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\PigLatinSentences\PigLatinSentences.csproj">
-      <Project>{a1bd6c5e-ba2c-4dcb-b2d2-05224ad682ee}</Project>
-      <Name>PigLatinSentences</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Plinq\Plinq.csproj">
-      <Project>{0c982409-1ea2-443c-aa22-cf6dd532699f}</Project>
-      <Name>Plinq</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

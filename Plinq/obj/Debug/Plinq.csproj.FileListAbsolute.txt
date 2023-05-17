@@ -1,0 +1,7 @@
+D:\Bruno\AsyncPractices\Plinq\bin\Debug\Plinq.exe.config
+D:\Bruno\AsyncPractices\Plinq\bin\Debug\Plinq.exe
+D:\Bruno\AsyncPractices\Plinq\bin\Debug\Plinq.pdb
+D:\Bruno\AsyncPractices\Plinq\obj\Debug\Plinq.csproj.AssemblyReference.cache
+D:\Bruno\AsyncPractices\Plinq\obj\Debug\Plinq.csproj.CoreCompileInputs.cache
+D:\Bruno\AsyncPractices\Plinq\obj\Debug\Plinq.exe
+D:\Bruno\AsyncPractices\Plinq\obj\Debug\Plinq.pdb

@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "New Word Reverser", "New Wo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PigLatinSentences", "PigLatinSentences\PigLatinSentences.csproj", "{A1BD6C5E-BA2C-4DCB-B2D2-05224AD682EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plinq", "Plinq\Plinq.csproj", "{0C982409-1EA2-443C-AA22-CF6DD532699F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{A1BD6C5E-BA2C-4DCB-B2D2-05224AD682EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1BD6C5E-BA2C-4DCB-B2D2-05224AD682EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1BD6C5E-BA2C-4DCB-B2D2-05224AD682EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C982409-1EA2-443C-AA22-CF6DD532699F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C982409-1EA2-443C-AA22-CF6DD532699F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C982409-1EA2-443C-AA22-CF6DD532699F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C982409-1EA2-443C-AA22-CF6DD532699F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

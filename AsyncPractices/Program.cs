@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+
 namespace AsyncPractices
 {
     partial class Program
@@ -13,6 +14,7 @@ namespace AsyncPractices
             //TaskTesting();
             //ReverseSentenceTasking();
             Console.Read();
+
         }
 
 
